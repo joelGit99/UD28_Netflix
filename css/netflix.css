@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+h2 {
+    margin: 15px;
+    color: white;
+    font-weight: bold;
+}
+div {
+    margin: 10px;
+    align-items: center;
+    display: flex;
+}
+#divmenu {
+    margin-left: 2px;
+}
+#divfotos { 
+    margin-left: 5px;
+    margin: 1px;
+}
+i {
+    background-color: black;
+    color: white;
+    background-size: 20px;
+    font-weight: bold;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+#divbusqueda {
+    margin-right: 38%;
+}
+#divprofilepic {
+    margin-right: 0.05px;
+}
+#imgprofilepic {
+    height: 30px; 
+    width: 30px;
+}
+#imgprofilepic:hover {
+    height: 30px; 
+    width: 30px;
+}
+#imgnetflix {
+    height: 80px; 
+    width: 120px;
+}
+#imgnetflix:hover {
+    height: 80px; 
+    width: 120px; 
+}
+img:hover {
+    width: 400px;
+    height: 200px;
+}
